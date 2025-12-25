@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikiran-011" alt="saikiran-011" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,PHP,MySQL**
+- 🌱 I’m currently learning **Javascript,PHP,MySQL,WordPress**
 
 - 👨‍💻 All of my projects are available at [https://saikiranmyportfolio.netlify.app/](https://saikiranmyportfolio.netlify.app/)
 
