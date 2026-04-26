@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **JavaScript,PHP,MySQL,WordPress**
 
-- 🤝 I’m looking for help with **Java Development, AEM Development**
+- 🤝 I’m looking for help with **Full Stack Development, Java Development, AEM Development**
 
 - 👨‍💻 All of my projects are available at [https://saikiranmyportfolio.netlify.app/](https://saikiranmyportfolio.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,Java,JavaScript**
+- 💬 Ask me about **HTML,CSS,Java,JavaScript,PHP,MySQL**
 
 - 📫 How to reach me **saikiranb117@gmail.com**
 
